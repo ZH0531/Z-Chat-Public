@@ -263,32 +263,14 @@ Z-Chat 是一个基于AI的多功能聊天平台，采用前后端分离架构�
 | **NProgress** | 0.2.0 | 页面加载进度条 |
 | **ESLint + Prettier** | - | 代码格式化和规范检查 |
 
----
 
-## 📊 项目统计
-
-### 代码规模
-- 后端代码：85+ Java文件
-- 前端代码：30+ Vue/TypeScript文件
-- 数据库设计：10+ 张表
-- API接口：50+ 个RESTful接口
-- 开发周期：2个月
-- 技术栈：20+ 种技术
-
-### 涉及技术
-- **后端**：Spring Boot 3.x、Spring Security、MyBatis-Plus、LangChain4j
-- **前端**：Vue 3、TypeScript、Vite、Element Plus
-- **数据库**：MySQL、Redis、Flyway
-- **安全**：JWT Token、RBAC权限、BCrypt加密、接口限流
-- **AI集成**：LangChain4j、OpenAI协议、Anthropic协议、SSE流式响应
-- **其他**：AOP切面、全局异常处理、阿里云OSS、邮件服务
 
 
 ---
 
 ## ⚖️ 版权声明
 
-本项目为个人开发的简历项目，代码仅供学习交流，未经授权不得用于商业用途。
+本项目仅供学习交流，未经授权不得用于商业用途。
 
 ---
 
